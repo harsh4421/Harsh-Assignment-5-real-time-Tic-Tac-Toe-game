@@ -6,6 +6,12 @@ The application allows two players to join the same game room and play Tic Tac T
 
 ---
 
+## 🔗 Links
+
+- **Live Application:** https://harsh-assignment-5-real-time-tic-tac-toe.onrender.com
+- **GitHub Repository:** https://github.com/harsh4421/Harsh-Assignment-5-real-time-Tic-Tac-Toe-game
+
+
 ## 👨‍🎓 Student Details
 
 | Field | Details |
@@ -762,9 +768,3 @@ The application is deployed on Render and can be accessed through the live produ
 
 ---
 
-## 🔗 Links
-
-- **Live Application:** https://harsh-assignment-5-real-time-tic-tac-toe.onrender.com
-- **GitHub Repository:** https://github.com/harsh4421/Harsh-Assignment-5-real-time-Tic-Tac-Toe-game
-- **Health API:** https://harsh-assignment-5-real-time-tic-tac-toe.onrender.com/api/health
-- **Game History API:** https://harsh-assignment-5-real-time-tic-tac-toe.onrender.com/api/history
